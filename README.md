@@ -14,9 +14,8 @@ Summary: Minimal client to access the 'GitHub' 'API'.
 Current build status
 ====================
 
-[![Linux](https://img.shields.io/circleci/project/github/conda-forge/r-gh-feedstock/master.svg?label=Linux)](https://circleci.com/gh/conda-forge/r-gh-feedstock)
-[![OSX](https://img.shields.io/travis/conda-forge/r-gh-feedstock/master.svg?label=macOS)](https://travis-ci.org/conda-forge/r-gh-feedstock)
-[![Windows](https://img.shields.io/appveyor/ci/conda-forge/r-gh-feedstock/master.svg?label=Windows)](https://ci.appveyor.com/project/conda-forge/r-gh-feedstock/branch/master)
+All platforms:
+[![noarch](https://img.shields.io/circleci/project/github/conda-forge/r-gh-feedstock/master.svg?label=noarch)](https://circleci.com/gh/conda-forge/r-gh-feedstock)
 
 Current release info
 ====================
