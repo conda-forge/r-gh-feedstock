@@ -26,12 +26,14 @@ requirements:
     - {{posix}}zip               # [win]
   host:
     - r-base
-    - r-httr
+    - r-httr >=1.2
+    - r-cli
     - r-ini
     - r-jsonlite
   run:
     - r-base
-    - r-httr
+    - r-httr >=1.2
+    - r-cli
     - r-ini
     - r-jsonlite
 
