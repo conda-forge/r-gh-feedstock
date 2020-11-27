@@ -1,7 +1,7 @@
 About r-gh
 ==========
 
-Home: https://github.com/r-lib/gh#readme
+Home: https://gh.r-lib.org/, https://github.com/r-lib/gh#readme
 
 Package license: MIT
 
