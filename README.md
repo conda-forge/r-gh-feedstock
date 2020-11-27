@@ -5,11 +5,9 @@ Home: https://github.com/r-lib/gh#readme
 
 Package license: MIT
 
-Feedstock license: BSD 3-Clause
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-gh-feedstock/blob/master/LICENSE.txt)
 
 Summary: Minimal client to access the 'GitHub' 'API'.
-
-
 
 Current build status
 ====================
