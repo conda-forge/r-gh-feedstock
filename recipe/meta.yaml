@@ -1,4 +1,4 @@
-{% set version = "1.6.0" %}
+{% set version = "1.6.1" %}
 {% set posix = 'm2-' if win else '' %}
 
 package:
@@ -9,7 +9,7 @@ source:
   url:
     - {{ cran_mirror }}/src/contrib/gh_{{ version }}.tar.gz
     - {{ cran_mirror }}/src/contrib/Archive/gh/gh_{{ version }}.tar.gz
-  sha256: 91d3e15fd10835ed0b9b74b3fefa6deb56c25553108e1e8aeaed733365ef3be4
+  sha256: b5ad2aae31fad5cdf40ca679a4f0e560a63fe60ef2d4bd63f8ab39a669bd2fa3
 
 build:
   number: 0
